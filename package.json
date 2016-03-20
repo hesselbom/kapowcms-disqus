@@ -1,0 +1,15 @@
+{
+  "name": "kapowcms-disqus",
+  "version": "0.1.0",
+  "description": "Disqus plugin for KapowCMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viktor Hesselbom",
+  "license": "ISC",
+  "dependencies": {
+    "jade": "^1.11.0",
+    "path": "^0.12.7"
+  }
+}
